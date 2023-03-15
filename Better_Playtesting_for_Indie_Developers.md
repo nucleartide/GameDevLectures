@@ -1,8 +1,18 @@
-# Notes: Better Playtesting for Indie Developers
+# Better Playtesting for Indie Developers
 
-> [Original video on YouTube.](https://www.youtube.com/watch?v=KE3ajiVoTdY)
->
-> Presentation by [Steve Bromley](https://www.stevebromley.com/blog/).
+## Motivation
+
+Playtesting is a key part of any indie game developer's dev process, yet the glaring question I have is "where do I find people to play my game?"
+
+You could ask your family or friends, but they may not be your game's target market. Steve Bromley sets us straight by outlining a clear method for approaching playtesting as a time- and resource-strapped indie developer.
+
+## Links
+
+[Original video on YouTube.](https://www.youtube.com/watch?v=KE3ajiVoTdY)
+
+Presentation by [Steve Bromley](https://www.stevebromley.com/blog/).
+
+## Raw notes
 
 - playtestkit
 - iteration is the secret weapon
@@ -111,7 +121,7 @@
         - to measure something, use a survey
         - to understand, observe
         - to understand why, ask
-    - 4️⃣ dealing with the data from playtests
+    - dealing with the data from playtests
         - huge amounts of raw data
         - behavior data
         - interview data
